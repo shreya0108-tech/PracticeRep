@@ -1,4 +1,8 @@
 Hello from Scaler
 Hello from Shreya
+<<<<<<< HEAD
 Hello from Delhi
 Shreya
+=======
+Hello from Delhi
+>>>>>>> f1
