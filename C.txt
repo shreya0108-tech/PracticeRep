@@ -1,8 +1,5 @@
 Delhi
 Blr
 Kolkata
-<<<<<<< HEAD
 Belgium
-=======
-Sakshi
->>>>>>> f1
+Dubai
